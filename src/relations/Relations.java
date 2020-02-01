@@ -94,7 +94,7 @@ public class Relations {
 //         System.out.println("-------------------------");
         String name = "/Tony kotsikaris";
         name = " Nikos Mpellias";
-        String name3 = "Antonis".concat(" Kotsikaris");
+        String name3 = "Antonis".concat(" Kotsikaris ");
         String name2 = "My name is:" + name3.substring(0, name3.length());
        // name = name2;
        
